@@ -1,0 +1,22 @@
+[
+  {
+    "username" : "dev",
+    "password" : "dev",
+
+    "firstname": "dev",
+    "lastname": "dev",
+    "address": "dev",
+    "phone": "dev",
+    "email": "dev@dev.com"
+  },
+  {
+    "username" : "admin",
+    "password" : "admin",
+
+    "firstname": "admin",
+    "lastname": "admin",
+    "address": "admin",
+    "phone": "admin",
+    "email": "admin@admin.com"
+  }
+]
